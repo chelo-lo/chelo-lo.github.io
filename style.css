@@ -1,0 +1,38 @@
+h1 {
+    color:#00ffff
+    ; 
+    font-family:arial;
+    background-color: pink;
+    border: 3px dashed skyblue;
+    padding: 30px;
+}
+
+body {
+    color:blueviolet;
+    font-family: helvetica;
+    background-color: greenyellow;
+}
+
+
+
+img {
+    width: 50%;
+    height: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+p {
+    color:red;
+    font-family: helvetica;
+}
+
+#highlight{
+    color:green;
+    background-color: wheat;
+    border: 2px solid rosybrown;
+}
+
+#top{
+    background-color: aquamarine;
+}
